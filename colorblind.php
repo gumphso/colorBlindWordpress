@@ -42,7 +42,7 @@ along with colorExtract. If not, see https://www.gnu.org/licenses/gpl-2.0.html.
 if ( ! defined( 'ABSPATH' ) ) exit;
 
 // Include your custom code here.
-
+/*
 register_activation_hook(
 	__FILE__,
 	'pluginprefix_function_to_run'
@@ -52,3 +52,4 @@ register_deactivation_hook(
 	__FILE__,
 	'pluginprefix_function_to_run'
 );
+*/
